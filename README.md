@@ -1,2 +1,2 @@
 # PG-life
-Web Development project reference by Internshala trainings web development course   
+Internshala Training PGLife web application 
